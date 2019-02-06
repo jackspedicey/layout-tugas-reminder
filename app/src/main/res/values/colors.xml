@@ -5,4 +5,9 @@
     <color name="tabtextcolor">#ffffff</color>
     <color name="tabindicatorcolor">#2d2d2d</color>
     <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="mid_gray">#cacaca</color>
+    <color name="confirm_color">#cc29a0cf</color>
 </resources>

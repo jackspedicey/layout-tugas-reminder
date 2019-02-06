@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Ahmad Syarief Fachrul Ma'aly"
-        android:textSize="30dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:gravity="center"
         />
@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="12.12.6475"
-        android:textSize="40dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         />
 

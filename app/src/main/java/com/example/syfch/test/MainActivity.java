@@ -5,7 +5,6 @@ import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TimePicker;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -29,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         //adding fragment
         adapter.AddFragment(new FragmentAlarm(),"Pengingat");
-        adapter.AddFragment(new  FragmentJam(),"Jam");
+        adapter.AddFragment(new FragmentJam(),"Jam");
         adapter.AddFragment(new FragmentAbout(),"About");
 
 
